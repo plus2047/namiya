@@ -1,0 +1,3 @@
+[submodule "namiya-frontend"]
+	path = namiya-frontend
+	url = https://github.com/UncleSpider/namiya-frontend.git
